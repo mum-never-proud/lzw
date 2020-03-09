@@ -1,0 +1,28 @@
+{
+  "name": "lzw",
+  "version": "1.0.0",
+  "description": "lzw compression algorithm",
+  "main": "./src/lzw.js",
+  "scripts": {
+    "build": "./node_modules/.bin/grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mum-never-proud/lzw.git"
+  },
+  "keywords": [
+    "lzw",
+    "compression",
+    "data"
+  ],
+  "author": "mum-never-proud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mum-never-proud/lzw/issues"
+  },
+  "homepage": "https://github.com/mum-never-proud/lzw#readme",
+  "devDependencies": {
+    "grunt": "1.0.4",
+    "grunt-contrib-uglify-es": "3.3.0"
+  }
+}
